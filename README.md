@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Flagify](https://github.com/Dreeeems/Flagify)
 
-- 🌱 I’m currently learning **TypeScript and Python**
+- 🌱 I’m currently learning **Symfony**
 
 
 <h3 align="left">Languages and Tools:</h3>
