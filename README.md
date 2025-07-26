@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dreeeems</h1>
 <h3 align="center">A frontend developer from France</h3>
 
-- 🔭 I’m currently working on [Flagify](https://github.com/Dreeeems/Flagify)
-
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning **C# with Unity**
 
 
 <h3 align="left">Languages and Tools:</h3>
